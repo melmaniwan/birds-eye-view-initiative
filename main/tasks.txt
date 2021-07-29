@@ -1,0 +1,29 @@
+To do (Names Arranged Alphabetically):
+
+If you would like to change your tasks, please add new task underneath existing task.
+
+-------------------------------------------------------------------------------------------------------------
+
+Kenneth 
+- Scrapping Starbucks data.
+- Scrapping major chains and geographic features that could be possible indicators of gentrification.
+
+-------------------------------------------------------------------------------------------------------------
+
+Jen 
+- Learn Python for now. 
+- When time, help clean the datasets.
+
+-------------------------------------------------------------------------------------------------------------
+
+Mel 
+- Scrapping Starbucks data.
+- Scrapping McDonald's, and other fast food chains.
+- Finding information on when establishments were built.
+
+-------------------------------------------------------------------------------------------------------------
+
+Wesley 
+- Scrapping real estate price and other attributes by zipcode or neighborhood or other sub-county level geography.
+
+-------------------------------------------------------------------------------------------------------------
