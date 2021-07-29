@@ -19,7 +19,8 @@ Jen
 Mel 
 - Scrapping Starbucks data.
 - Scrapping McDonald's, and other fast food chains.
-- Finding information on when establishments were built.
+-- Bonus: Wifi Status 
+- Finding information on when establishments were opened.
 
 -------------------------------------------------------------------------------------------------------------
 
